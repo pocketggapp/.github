@@ -1,6 +1,6 @@
-# pocket.gg
+# pocketgg
 
-📱 A [start.gg](https://www.start.gg/) mobile app, written with Swift and SwiftUI
+📱 A [start.gg](https://www.start.gg/) mobile app, written in Swift and SwiftUI
 
 ## Features
 * Discover upcoming and featured tournaments for your favourite video games
